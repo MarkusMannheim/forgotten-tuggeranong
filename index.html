@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155991615-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag("js", new Date());
+      gtag("config", "UA-155991615-1");
+    </script>
+
+    <!-- page data -->
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <title>Forgotten Tuggeranong</title>
+    <meta name="description" content="ACT districts' changing population estimates and projections, 2000 to 2058.">
+    <meta name="keywords" content="canberra, act, population, districts, tuggeranong, changes, projections">
+    <meta name="author" content="Markus Mannheim">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- scripts and style -->
+    <script src="./resources/d3.v6.min.js"></script>
+    <link href="./resources/style.css" rel="stylesheet">
+    <link href="./resources/abcLogo64.png" rel="icon">
+  </head>
+
+  <body>
+    <!-- HTML skeleton -->
+    <div id="container">
+      <div id="header">Canberra district populations</div>
+      <div id="chart"></div>
+      <div id="footer">Data: ACT Treasury, ABS<span class="mobile"><br></span><span class="desktop">. </span>Chart: Markus Mannheim</div>
+    </div>
+
+    <script>
+      // declare page elements
+      container = d3.select("#container");
+      header = d3.select("#header");
+      chart = d3.select("#chart");
+      footer = d3.select("#footer");
+
+      // load data
+      d3.csv("./data/chartData.csv")
+        .then(function(data) {
+
+          // declare and format data
+          chartData = data
+            .map(function(d) {
+              let total = 0;
+              for (key in data.columns) {
+                if (data.columns[key] !== "district" && data.columns[key] !== "sex") d[data.columns[key]] = +d[data.columns[key]];
+                if (data.columns[key] !== "district" && data.columns[key] !== "sex" && data.columns[key] !== "year") total = total + d[data.columns[key]];
+              }
+              d.total = total;
+              return d;
+            });
+
+          // declare variables
+          districts = Array.from(new Set(chartData.map(function(d) { return d.district; })));
+          years = d3.range(2000, 2059);
+          year = 0;
+          categories = d3.range(18)
+            .map(function(d) {
+              return d < 17 ?
+                d + "-" + (d + 4) :
+                "85+";
+            });
+
+          // set up charts
+          charts = chart
+            .selectAll(".chart")
+              .data(districts)
+            .enter().append("div")
+              .classed("chart", true)
+              .text(function(d) { return d; });
+
+          // page dimensions
+          // window.onresize = resize;
+
+          // fade in and begin
+
+
+        });
+
+    </script>
+  </body>
+</html>

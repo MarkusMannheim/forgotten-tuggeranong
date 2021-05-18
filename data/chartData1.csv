@@ -1,0 +1,581 @@
+year,district,total
+2001,Belconnen,86221
+2001,Canberra East,1351
+2001,Gungahlin,24568
+2001,North Canberra,38610
+2001,South Canberra,22348
+2001,Tuggeranong,91525
+2001,Weston Creek,23767
+2001,Woden,32719
+2001,Molonglo,7
+2001,Urriarra-Namadgi,422
+2002,Belconnen,86980
+2002,Canberra East,1322
+2002,Gungahlin,26104
+2002,North Canberra,39466
+2002,South Canberra,22467
+2002,Tuggeranong,91316
+2002,Weston Creek,23696
+2002,Woden,32861
+2002,Molonglo,6
+2002,Urriarra-Namadgi,409
+2003,Belconnen,87370
+2003,Canberra East,1299
+2003,Gungahlin,27916
+2003,North Canberra,40699
+2003,South Canberra,22491
+2003,Tuggeranong,91191
+2003,Weston Creek,23040
+2003,Woden,32962
+2003,Molonglo,6
+2003,Urriarra-Namadgi,383
+2004,Belconnen,87054
+2004,Canberra East,1268
+2004,Gungahlin,29802
+2004,North Canberra,41766
+2004,South Canberra,22530
+2004,Tuggeranong,90573
+2004,Weston Creek,22740
+2004,Woden,32832
+2004,Molonglo,6
+2004,Urriarra-Namadgi,369
+2005,Belconnen,87124
+2005,Canberra East,1199
+2005,Gungahlin,31029
+2005,North Canberra,42653
+2005,South Canberra,23039
+2005,Tuggeranong,90242
+2005,Weston Creek,22743
+2005,Woden,33013
+2005,Molonglo,6
+2005,Urriarra-Namadgi,351
+2006,Belconnen,87327
+2006,Canberra East,1138
+2006,Gungahlin,32750
+2006,North Canberra,43831
+2006,South Canberra,23792
+2006,Tuggeranong,90043
+2006,Weston Creek,22725
+2006,Woden,33226
+2006,Molonglo,6
+2006,Urriarra-Namadgi,332
+2007,Belconnen,89665
+2007,Canberra East,1147
+2007,Gungahlin,34972
+2007,North Canberra,45388
+2007,South Canberra,24280
+2007,Tuggeranong,90479
+2007,Weston Creek,22958
+2007,Woden,33409
+2007,Molonglo,6
+2007,Urriarra-Namadgi,340
+2008,Belconnen,91097
+2008,Canberra East,1159
+2008,Gungahlin,37534
+2008,North Canberra,46572
+2008,South Canberra,24454
+2008,Tuggeranong,90538
+2008,Weston Creek,23087
+2008,Woden,33570
+2008,Molonglo,6
+2008,Urriarra-Namadgi,351
+2009,Belconnen,92788
+2009,Canberra East,1342
+2009,Gungahlin,40004
+2009,North Canberra,47712
+2009,South Canberra,24710
+2009,Tuggeranong,90763
+2009,Weston Creek,23263
+2009,Woden,33815
+2009,Molonglo,5
+2009,Urriarra-Namadgi,383
+2010,Belconnen,95050
+2010,Canberra East,1434
+2010,Gungahlin,43101
+2010,North Canberra,48739
+2010,South Canberra,24968
+2010,Tuggeranong,90497
+2010,Weston Creek,23459
+2010,Woden,34068
+2010,Molonglo,5
+2010,Urriarra-Namadgi,445
+2011,Belconnen,95673
+2011,Canberra East,1509
+2011,Gungahlin,48337
+2011,North Canberra,49910
+2011,South Canberra,25216
+2011,Tuggeranong,89335
+2011,Weston Creek,23389
+2011,Woden,34124
+2011,Molonglo,4
+2011,Urriarra-Namadgi,488
+2012,Belconnen,96479
+2012,Canberra East,1519
+2012,Gungahlin,53849
+2012,North Canberra,51182
+2012,South Canberra,25787
+2012,Tuggeranong,89020
+2012,Weston Creek,23691
+2012,Woden,34465
+2012,Molonglo,25
+2012,Urriarra-Namadgi,522
+2013,Belconnen,97112
+2013,Canberra East,1512
+2013,Gungahlin,58751
+2013,North Canberra,52147
+2013,South Canberra,26114
+2013,Tuggeranong,88247
+2013,Weston Creek,23853
+2013,Woden,34768
+2013,Molonglo,202
+2013,Urriarra-Namadgi,551
+2014,Belconnen,97090
+2014,Canberra East,1507
+2014,Gungahlin,63623
+2014,North Canberra,52667
+2014,South Canberra,26464
+2014,Tuggeranong,87204
+2014,Weston Creek,23625
+2014,Woden,34967
+2014,Molonglo,1074
+2014,Urriarra-Namadgi,578
+2015,Belconnen,96939
+2015,Canberra East,1523
+2015,Gungahlin,68434
+2015,North Canberra,53367
+2015,South Canberra,27006
+2015,Tuggeranong,86382
+2015,Weston Creek,23345
+2015,Woden,35112
+2015,Molonglo,3110
+2015,Urriarra-Namadgi,595
+2016,Belconnen,97286
+2016,Canberra East,1566
+2016,Gungahlin,72355
+2016,North Canberra,54356
+2016,South Canberra,27753
+2016,Tuggeranong,85930
+2016,Weston Creek,23279
+2016,Woden,35388
+2016,Molonglo,4592
+2016,Urriarra-Namadgi,599
+2017,Belconnen,98680
+2017,Canberra East,1544
+2017,Gungahlin,76150
+2017,North Canberra,55881
+2017,South Canberra,28816
+2017,Tuggeranong,85538
+2017,Weston Creek,23249
+2017,Woden,35845
+2017,Molonglo,5716
+2017,Urriarra-Namadgi,606
+2018,Belconnen,100328
+2018,Canberra East,1551
+2018,Gungahlin,79655
+2018,North Canberra,57105
+2018,South Canberra,29573
+2018,Tuggeranong,85386
+2018,Weston Creek,23182
+2018,Woden,36281
+2018,Molonglo,6694
+2018,Urriarra-Namadgi,624
+2019,Belconnen,101050
+2019,Canberra East,1563
+2019,Gungahlin,82544
+2019,North Canberra,58350
+2019,South Canberra,30141
+2019,Tuggeranong,85178
+2019,Weston Creek,23293
+2019,Woden,36482
+2019,Molonglo,7481
+2019,Urriarra-Namadgi,622
+2020,Belconnen,102764
+2020,Canberra East,1551
+2020,Gungahlin,81028
+2020,North Canberra,57830
+2020,South Canberra,31433
+2020,Tuggeranong,88085
+2020,Weston Creek,23621
+2020,Woden,40337
+2020,Molonglo,9378
+2020,Urriarra-Namadgi,605
+2021,Belconnen,104255
+2021,Canberra East,1535
+2021,Gungahlin,82117
+2021,North Canberra,59432
+2021,South Canberra,31227
+2021,Tuggeranong,87978
+2021,Weston Creek,23722
+2021,Woden,41191
+2021,Molonglo,12595
+2021,Urriarra-Namadgi,605
+2022,Belconnen,106193
+2022,Canberra East,1519
+2022,Gungahlin,83460
+2022,North Canberra,61161
+2022,South Canberra,31218
+2022,Tuggeranong,87787
+2022,Weston Creek,23885
+2022,Woden,42148
+2022,Molonglo,14626
+2022,Urriarra-Namadgi,599
+2023,Belconnen,108091
+2023,Canberra East,1508
+2023,Gungahlin,84453
+2023,North Canberra,63097
+2023,South Canberra,31324
+2023,Tuggeranong,87663
+2023,Weston Creek,24070
+2023,Woden,43084
+2023,Molonglo,16553
+2023,Urriarra-Namadgi,598
+2024,Belconnen,110306
+2024,Canberra East,1494
+2024,Gungahlin,85653
+2024,North Canberra,64741
+2024,South Canberra,31334
+2024,Tuggeranong,87355
+2024,Weston Creek,24216
+2024,Woden,43920
+2024,Molonglo,18582
+2024,Urriarra-Namadgi,596
+2025,Belconnen,112629
+2025,Canberra East,1467
+2025,Gungahlin,86335
+2025,North Canberra,66168
+2025,South Canberra,31219
+2025,Tuggeranong,86812
+2025,Weston Creek,24283
+2025,Woden,44791
+2025,Molonglo,21549
+2025,Urriarra-Namadgi,588
+2026,Belconnen,114631
+2026,Canberra East,1453
+2026,Gungahlin,86923
+2026,North Canberra,67699
+2026,South Canberra,31335
+2026,Tuggeranong,86468
+2026,Weston Creek,24406
+2026,Woden,45674
+2026,Molonglo,24213
+2026,Urriarra-Namadgi,588
+2027,Belconnen,116749
+2027,Canberra East,1433
+2027,Gungahlin,87246
+2027,North Canberra,69310
+2027,South Canberra,31244
+2027,Tuggeranong,86322
+2027,Weston Creek,24564
+2027,Woden,46617
+2027,Molonglo,26777
+2027,Urriarra-Namadgi,593
+2028,Belconnen,118932
+2028,Canberra East,1423
+2028,Gungahlin,87379
+2028,North Canberra,70968
+2028,South Canberra,31383
+2028,Tuggeranong,86303
+2028,Weston Creek,24680
+2028,Woden,47506
+2028,Molonglo,29011
+2028,Urriarra-Namadgi,585
+2029,Belconnen,120964
+2029,Canberra East,1416
+2029,Gungahlin,87444
+2029,North Canberra,72530
+2029,South Canberra,31502
+2029,Tuggeranong,86235
+2029,Weston Creek,24815
+2029,Woden,48166
+2029,Molonglo,31707
+2029,Urriarra-Namadgi,589
+2030,Belconnen,122905
+2030,Canberra East,1402
+2030,Gungahlin,87243
+2030,North Canberra,74223
+2030,South Canberra,31845
+2030,Tuggeranong,86391
+2030,Weston Creek,24870
+2030,Woden,48844
+2030,Molonglo,34160
+2030,Urriarra-Namadgi,589
+2031,Belconnen,125291
+2031,Canberra East,1394
+2031,Gungahlin,86641
+2031,North Canberra,75638
+2031,South Canberra,32202
+2031,Tuggeranong,86592
+2031,Weston Creek,24949
+2031,Woden,49537
+2031,Molonglo,36701
+2031,Urriarra-Namadgi,591
+2032,Belconnen,127703
+2032,Canberra East,1391
+2032,Gungahlin,86263
+2032,North Canberra,77010
+2032,South Canberra,32614
+2032,Tuggeranong,86776
+2032,Weston Creek,25020
+2032,Woden,50062
+2032,Molonglo,39101
+2032,Urriarra-Namadgi,591
+2033,Belconnen,130102
+2033,Canberra East,1387
+2033,Gungahlin,85741
+2033,North Canberra,78347
+2033,South Canberra,33008
+2033,Tuggeranong,87063
+2033,Weston Creek,25109
+2033,Woden,50586
+2033,Molonglo,41503
+2033,Urriarra-Namadgi,592
+2034,Belconnen,132737
+2034,Canberra East,1384
+2034,Gungahlin,85047
+2034,North Canberra,79319
+2034,South Canberra,33429
+2034,Tuggeranong,87388
+2034,Weston Creek,25211
+2034,Woden,51106
+2034,Molonglo,44097
+2034,Urriarra-Namadgi,593
+2035,Belconnen,135138
+2035,Canberra East,1389
+2035,Gungahlin,84729
+2035,North Canberra,80180
+2035,South Canberra,33822
+2035,Tuggeranong,87651
+2035,Weston Creek,25307
+2035,Woden,51591
+2035,Molonglo,46717
+2035,Urriarra-Namadgi,597
+2036,Belconnen,137580
+2036,Canberra East,1384
+2036,Gungahlin,84597
+2036,North Canberra,81044
+2036,South Canberra,34196
+2036,Tuggeranong,87850
+2036,Weston Creek,25376
+2036,Woden,52031
+2036,Molonglo,49248
+2036,Urriarra-Namadgi,595
+2037,Belconnen,139897
+2037,Canberra East,1380
+2037,Gungahlin,84669
+2037,North Canberra,81838
+2037,South Canberra,34535
+2037,Tuggeranong,88047
+2037,Weston Creek,25414
+2037,Woden,52416
+2037,Molonglo,51874
+2037,Urriarra-Namadgi,601
+2038,Belconnen,141736
+2038,Canberra East,1378
+2038,Gungahlin,84814
+2038,North Canberra,82795
+2038,South Canberra,34940
+2038,Tuggeranong,88434
+2038,Weston Creek,25566
+2038,Woden,52918
+2038,Molonglo,54209
+2038,Urriarra-Namadgi,604
+2039,Belconnen,143669
+2039,Canberra East,1380
+2039,Gungahlin,85198
+2039,North Canberra,83790
+2039,South Canberra,35418
+2039,Tuggeranong,88841
+2039,Weston Creek,25635
+2039,Woden,53502
+2039,Molonglo,56081
+2039,Urriarra-Namadgi,610
+2040,Belconnen,144938
+2040,Canberra East,1377
+2040,Gungahlin,85750
+2040,North Canberra,84896
+2040,South Canberra,36005
+2040,Tuggeranong,89337
+2040,Weston Creek,25839
+2040,Woden,54250
+2040,Molonglo,57829
+2040,Urriarra-Namadgi,612
+2041,Belconnen,144868
+2041,Canberra East,1361
+2041,Gungahlin,85344
+2041,North Canberra,85225
+2041,South Canberra,36194
+2041,Tuggeranong,88960
+2041,Weston Creek,25725
+2041,Woden,54335
+2041,Molonglo,58660
+2041,Urriarra-Namadgi,609
+2042,Belconnen,145212
+2042,Canberra East,1353
+2042,Gungahlin,85134
+2042,North Canberra,85740
+2042,South Canberra,36463
+2042,Tuggeranong,88815
+2042,Weston Creek,25663
+2042,Woden,54531
+2042,Molonglo,59434
+2042,Urriarra-Namadgi,610
+2043,Belconnen,145731
+2043,Canberra East,1339
+2043,Gungahlin,85019
+2043,North Canberra,86299
+2043,South Canberra,36732
+2043,Tuggeranong,88764
+2043,Weston Creek,25635
+2043,Woden,54727
+2043,Molonglo,60101
+2043,Urriarra-Namadgi,608
+2044,Belconnen,146283
+2044,Canberra East,1334
+2044,Gungahlin,84997
+2044,North Canberra,86892
+2044,South Canberra,37010
+2044,Tuggeranong,88791
+2044,Weston Creek,25634
+2044,Woden,54965
+2044,Molonglo,60668
+2044,Urriarra-Namadgi,606
+2045,Belconnen,145628
+2045,Canberra East,1336
+2045,Gungahlin,84328
+2045,North Canberra,87116
+2045,South Canberra,37266
+2045,Tuggeranong,88328
+2045,Weston Creek,25455
+2045,Woden,55078
+2045,Molonglo,62179
+2045,Urriarra-Namadgi,593
+2046,Belconnen,146850
+2046,Canberra East,1327
+2046,Gungahlin,84468
+2046,North Canberra,87936
+2046,South Canberra,37662
+2046,Tuggeranong,88516
+2046,Weston Creek,25497
+2046,Woden,55448
+2046,Molonglo,62488
+2046,Urriarra-Namadgi,595
+2047,Belconnen,148062
+2047,Canberra East,1322
+2047,Gungahlin,84717
+2047,North Canberra,88683
+2047,South Canberra,37908
+2047,Tuggeranong,88764
+2047,Weston Creek,25569
+2047,Woden,55668
+2047,Molonglo,62790
+2047,Urriarra-Namadgi,597
+2048,Belconnen,148579
+2048,Canberra East,1315
+2048,Gungahlin,84982
+2048,North Canberra,89238
+2048,South Canberra,38175
+2048,Tuggeranong,88996
+2048,Weston Creek,25649
+2048,Woden,55934
+2048,Molonglo,62897
+2048,Urriarra-Namadgi,601
+2049,Belconnen,149154
+2049,Canberra East,1309
+2049,Gungahlin,85384
+2049,North Canberra,89685
+2049,South Canberra,38279
+2049,Tuggeranong,89296
+2049,Weston Creek,25757
+2049,Woden,56064
+2049,Molonglo,62515
+2049,Urriarra-Namadgi,596
+2050,Belconnen,149554
+2050,Canberra East,1308
+2050,Gungahlin,85715
+2050,North Canberra,90140
+2050,South Canberra,38362
+2050,Tuggeranong,89575
+2050,Weston Creek,25857
+2050,Woden,56158
+2050,Molonglo,62340
+2050,Urriarra-Namadgi,601
+2051,Belconnen,149879
+2051,Canberra East,1300
+2051,Gungahlin,85944
+2051,North Canberra,90584
+2051,South Canberra,38390
+2051,Tuggeranong,89734
+2051,Weston Creek,25928
+2051,Woden,56179
+2051,Molonglo,62118
+2051,Urriarra-Namadgi,603
+2052,Belconnen,150235
+2052,Canberra East,1297
+2052,Gungahlin,86297
+2052,North Canberra,90765
+2052,South Canberra,38421
+2052,Tuggeranong,89902
+2052,Weston Creek,26007
+2052,Woden,56205
+2052,Molonglo,61889
+2052,Urriarra-Namadgi,608
+2053,Belconnen,150677
+2053,Canberra East,1287
+2053,Gungahlin,86613
+2053,North Canberra,90985
+2053,South Canberra,38475
+2053,Tuggeranong,90044
+2053,Weston Creek,26076
+2053,Woden,56288
+2053,Molonglo,61951
+2053,Urriarra-Namadgi,585
+2054,Belconnen,151203
+2054,Canberra East,1281
+2054,Gungahlin,86915
+2054,North Canberra,91222
+2054,South Canberra,38528
+2054,Tuggeranong,90171
+2054,Weston Creek,26142
+2054,Woden,56357
+2054,Molonglo,62042
+2054,Urriarra-Namadgi,592
+2055,Belconnen,151648
+2055,Canberra East,1267
+2055,Gungahlin,87178
+2055,North Canberra,91417
+2055,South Canberra,38559
+2055,Tuggeranong,90248
+2055,Weston Creek,26195
+2055,Woden,56398
+2055,Molonglo,62098
+2055,Urriarra-Namadgi,598
+2056,Belconnen,151960
+2056,Canberra East,1256
+2056,Gungahlin,87371
+2056,North Canberra,91526
+2056,South Canberra,38564
+2056,Tuggeranong,90254
+2056,Weston Creek,26219
+2056,Woden,56402
+2056,Molonglo,62093
+2056,Urriarra-Namadgi,604
+2057,Belconnen,152237
+2057,Canberra East,1243
+2057,Gungahlin,87554
+2057,North Canberra,91576
+2057,South Canberra,38554
+2057,Tuggeranong,90224
+2057,Weston Creek,26251
+2057,Woden,56391
+2057,Molonglo,62071
+2057,Urriarra-Namadgi,602
+2058,Belconnen,152453
+2058,Canberra East,1233
+2058,Gungahlin,87508
+2058,North Canberra,91597
+2058,South Canberra,38534
+2058,Tuggeranong,90179
+2058,Weston Creek,26265
+2058,Woden,56361
+2058,Molonglo,62033
+2058,Urriarra-Namadgi,605

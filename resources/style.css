@@ -95,14 +95,14 @@ h1, p {
   font-weight: bold;
   font-size: .9rem;
   fill: white;
-  text-shadow: 1px 1px 5px #333;
+  text-shadow: 2px 2px 5px #333;
 }
 #ticker {
   text-anchor: end;
   font-family: "ABCSans Black", "Arial Black", sans-serif;
   font-size: 2.5rem;
-  fill: #ccc;
-  text-shadow: 2px 2px 5px #333;
+  fill: #f2f2f2;
+  text-shadow: 3px 3px 6px #333;
 }
 @media only screen and (min-width: 500px) {
   .mobile {
